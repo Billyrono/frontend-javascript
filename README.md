@@ -76,25 +76,27 @@ npm test
 
 ## Directory Structure
 
+```text
 frontend-javascript/
 └── 0x04-TypeScript/
-├── task_0/
-│ ├── js/
-│ │ └── main.ts
-│ ├── package.json
-│ ├── tsconfig.json
-│ ├── webpack.config.js
-│ └── .eslintrc.js
-├── task_1/
-│ └── (same structure)
-├── task_2/
-│ └── (same structure)
-├── task_3/
-│ └── (same structure)
-├── task_3/
-│ └── (same structure)
-└── task_5/
-│ └── (same structure)
+    ├── task_0/
+    │   ├── js/
+    │   │   └── main.ts
+    │   ├── package.json
+    │   ├── tsconfig.json
+    │   ├── webpack.config.js
+    │   └── .eslintrc.js
+    ├── task_1/
+    │   └── (same structure)
+    ├── task_2/
+    │   └── (same structure)
+    ├── task_3/
+    │   └── (same structure)
+    ├── task_4/
+    │   └── (same structure)
+    └── task_5/
+        └── (same structure)
+
 
 - Each `task_x` folder is independent and contains its own TypeScript setup.
 - The `js/` folder contains the main TypeScript files for that task.
@@ -115,3 +117,4 @@ frontend-javascript/
 
 - **Your Name:** Billy Rono
 - **GitHub:** [https://github.com/billyrono](https://github.com/billyrono)
+```
