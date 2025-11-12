@@ -96,7 +96,7 @@ frontend-javascript/
     │   └── (same structure)
     └── task_5/
         └── (same structure)
-
+```
 
 - Each `task_x` folder is independent and contains its own TypeScript setup.
 - The `js/` folder contains the main TypeScript files for that task.
@@ -117,4 +117,7 @@ frontend-javascript/
 
 - **Your Name:** Billy Rono
 - **GitHub:** [https://github.com/billyrono](https://github.com/billyrono)
+
+```
+
 ```
