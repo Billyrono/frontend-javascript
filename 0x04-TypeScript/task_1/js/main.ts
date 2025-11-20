@@ -26,7 +26,6 @@ function createEmployee(salary: number | string): Director | Teacher {
   return new Director();
 }
 
-
 function isDirector(employee: Director | Teacher): employee is Director {
   return employee instanceof Director;
 }
