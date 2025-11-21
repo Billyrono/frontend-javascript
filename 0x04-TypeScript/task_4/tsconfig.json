@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "outDir": "./dist/",
-    "rootDir": "./js",
+    "rootDir": "./js",  
     "sourceMap": true,
     "noImplicitAny": true,
     "module": "es6",
