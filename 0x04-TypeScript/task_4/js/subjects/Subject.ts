@@ -8,6 +8,10 @@ namespace Subjects {
   }
 
   export class Subject {
-    teacher: Teacher;
+    protected teacher?: Teacher;
+
+    setTeacher(teacher: Teacher) {
+      this.teacher = teacher;
+    }
   }
 }

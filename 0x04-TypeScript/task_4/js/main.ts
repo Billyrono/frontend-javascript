@@ -23,7 +23,7 @@ experienceTeachingC: 10,
 // C++
 // ======================
 console.log("C++");
-cpp.teacher = cTeacher;
+cpp.setTeacher(cTeacher);
 console.log(cpp.getRequirements());
 console.log(cpp.getAvailableTeacher());
 
@@ -31,7 +31,7 @@ console.log(cpp.getAvailableTeacher());
 // Java
 // ======================
 console.log("Java");
-java.teacher = cTeacher;
+cpp.setTeacher(cTeacher);
 console.log(java.getRequirements());
 console.log(java.getAvailableTeacher());
 
@@ -39,6 +39,6 @@ console.log(java.getAvailableTeacher());
 // React
 // ======================
 console.log("React");
-react.teacher = cTeacher;
+cpp.setTeacher(cTeacher);
 console.log(react.getRequirements());
 console.log(react.getAvailableTeacher());
