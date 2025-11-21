@@ -31,7 +31,7 @@ console.log(cpp.getAvailableTeacher());
 // Java
 // ======================
 console.log("Java");
-cpp.setTeacher(cTeacher);
+java.setTeacher(cTeacher);
 console.log(java.getRequirements());
 console.log(java.getAvailableTeacher());
 
@@ -39,6 +39,6 @@ console.log(java.getAvailableTeacher());
 // React
 // ======================
 console.log("React");
-cpp.setTeacher(cTeacher);
+react.setTeacher(cTeacher);
 console.log(react.getRequirements());
 console.log(react.getAvailableTeacher());
